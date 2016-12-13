@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="72.672829mm"
+   height="37.731701mm"
+   viewBox="0 0 257.50215 133.695"
+   id="svg3353"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="discount.svg">
+  <defs
+     id="defs3355" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="177.5198"
+     inkscape:cy="85.902165"
+     inkscape:document-units="px"
+     inkscape:current-layer="g3374"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3358">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-54.106068,-119.80041)">
+    <g
+       id="g3374"
+       transform="translate(56.623017,118.54194)">
+      <path
+         style="fill:#fec914;stroke:#ffffff;stroke-width:1.61292303;stroke-miterlimit:10"
+         inkscape:connector-curvature="0"
+         id="path3"
+         d="M 76.133115,84.114936 C 66.515779,84.1311 58.707503,77.037388 58.704123,68.264153 c -0.01099,-8.760919 7.800672,-15.876184 17.400264,-15.876184 9.63339,0 17.431527,7.103719 17.431527,15.853862 0,8.770926 -7.798137,15.873105 -17.402799,15.873105 l 0,0 0,0 z M 211.84638,17.422033 74.259839,17.486689 C 68.18204,17.48361 62.380544,19.810465 58.192077,23.806836 L 22.95555,57.595105 c -6.231581,5.979932 -6.227356,15.362013 0.01436,21.325781 l 35.27624,33.675124 c 4.191848,3.99329 9.992499,6.19699 16.071987,6.19391 l 137.586553,-0.0647 c 12.23671,0.003 22.28413,-8.92179 22.27399,-20.083459 l -0.0296,-60.929267 c 0,-11.15166 -10.06094,-20.290511 -22.30273,-20.290511 l 0,0 0,0 z"
+         stroke-miterlimit="10" />
+      <flowRoot
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot3337"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3339"><rect
+             y="7.8475494"
+             x="92.707626"
+             height="56.211864"
+             width="142.20763"
+             id="rect3341" /></flowRegion><flowPara
+           id="flowPara3343">СКИДКА</flowPara></flowRoot>    </g>
+  </g>
+</svg>

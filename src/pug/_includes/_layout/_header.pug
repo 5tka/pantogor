@@ -1,0 +1,133 @@
+header.header
+    .header__top-line
+        .container
+            .row
+                .col-lg-2
+                    .logo
+                        a.logo-link(href="#")
+                            img.logo-img(src="img/logo.png", 
+                                alt="Пантогор", 
+                                title="Пантогор")
+                            span.logo-title
+                                | пантогор
+                .col-lg-6
+                    .service
+                         .service-item
+                            .icon
+                                img(src="img/microscope.svg", alt="")
+                            p.dscr
+                                | Проверено клиническими <br> испытаниями
+                         .service-item
+                            .icon
+                                img(src="img/gardening.svg", alt="")                                
+                            p.dscr
+                                | 100% натуральный <br> состав
+                         .service-item
+                            .icon
+                                img(src="img/sale-sticker.svg", alt="")                            
+                            p.dscr
+                                | 75% скидка <br> только сегодня
+
+                .col-lg-2
+                    .timer-wrap
+                        span.p                    
+                            | До конца акции осталось:
+                        .timer
+                            span.afss_hours_bv 0
+                            | :
+                            span.afss_mins_bv 0
+                            | :
+                            span.afss_secs_bv 0
+                .col-lg-2
+                    .feedback
+                        a(href="#").feedback-btn
+                            | Заказать звонок
+
+    .header__intro-wrap
+        .container
+            .row
+                .col-lg-12
+                    h1.intro-title
+                        | Если вас замучила боль в суставах, избавьтесь от нее за 10 дней с Пантогором! 
+                    h2.intro-dscr
+                        | Гель из уникальных пант канадского марала вернет вас к полноценной жизни в считанные минуты!
+            .row
+                .col-lg-5
+                    .product-wrap
+                        .product-list
+                            ul
+                                li
+                                    | Содержит 
+                                    span уникальные панты 
+                                    | канадского марала
+                                li
+                                    | Помогает при 
+                                    span артрите и артрозе 
+                                    | за счет регенерации 
+                                    | поврежденных тканей 
+                                    span суставов
+                                li
+                                    | С помощью 
+                                    span запатентованной 
+                                    | формулы 
+                                    span PSSJ 800 
+                                    | устраняет не только 
+                                    span боль, 
+                                    | но и ее причину
+                                li
+                                    | Активирует 
+                                    span природные силы 
+                                    | организма за счет 
+                                    span 100% натурального 
+                                    | состава
+
+                .col-lg-2
+                    .pruduct-item
+                        img(src="img/box.png", alt="")
+                        .discount-wrap
+                            span.discount скидка <br>
+                            span.percent 75%
+                .col-lg-5
+                     .feedback-wrapper
+                        p.feedback-form-title
+                            | Успейте оформить заказ по выгодной промо-цене
+                        .feedback-form-wrap
+                            span.dscr
+                                | Внимание! Акция действует только на территории России и стран СНГ
+                            .prices
+                                .usuall-price
+                                    p
+                                        |Обычная цена: <br>
+                                    span
+                                        |3960 руб 
+                                .promo-price
+                                    p
+                                        |Промо-цена: 
+                                    span
+                                        |990 руб
+                            .feedback-form
+                                form(action="")
+                                    .form-controllers
+                                        label(for="name")
+                                            | Введите Ваше имя
+                                        input(type="text")
+                                        label(for="name")
+                                            | Введите Ваш телефон
+                                        input(oninput='proverka(this)', onfocus='setCursorPosition(3, this)')
+                                    button(type="submit")
+                                        | Оформить заказ
+                                p
+                                    | Сегодня уже купили: 
+                                    span 158 
+                                    | человек
+            .row
+                .col-lg-3
+                .col-lg-6
+                    .medals-wrap
+                        .medals-item
+                            img(src="img/medal_1.svg", alt="")
+                        .medals-item.big-img
+                            img(src="img/medal_2.svg", alt="")
+                        .medals-item
+                            img(src="img/medal_3.svg", alt="")
+                .col-lg-3
